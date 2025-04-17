@@ -1,0 +1,200 @@
+[
+  {
+    "id": 0,
+    "name": "The Boot Sequence",
+    "traditionalMatch": "The Fool",
+    "archetype": "frontend",
+    "message": "You’ve begun your journey with no expectations. Embrace the unknown.",
+    "reversedMessage": "You’re stuck in setup—afraid to start, afraid to fail. Just boot.",
+    "emoji": "🧭"
+  },
+  {
+    "id": 1,
+    "name": "The Fullstack",
+    "traditionalMatch": "The Magician",
+    "archetype": "balance",
+    "message": "All tools are at your fingertips. You create your own destiny.",
+    "reversedMessage": "Too many tools, not enough vision. Focus your flow.",
+    "emoji": "🛠️"
+  },
+  {
+    "id": 2,
+    "name": "The Intuition",
+    "traditionalMatch": "The High Priestess",
+    "archetype": "emotional",
+    "message": "Look within the docs—and within yourself. The answer is subtle.",
+    "reversedMessage": "You’re overthinking. The silence is speaking—but you’re not listening.",
+    "emoji": "🌙"
+  },
+  {
+    "id": 3,
+    "name": "The UI Flow",
+    "traditionalMatch": "The Empress",
+    "archetype": "frontend",
+    "message": "Beauty, creativity, and care make users feel seen.",
+    "reversedMessage": "Pixel-perfect, but soulless. Design needs heart, not just polish.",
+    "emoji": "🎨"
+  },
+  {
+    "id": 4,
+    "name": "The System Design",
+    "traditionalMatch": "The Emperor",
+    "archetype": "backend",
+    "message": "Order. Structure. Stability. Trust the blueprint.",
+    "reversedMessage": "Rigid plans block innovation. Structure needs space to breathe.",
+    "emoji": "🧱"
+  },
+  {
+    "id": 5,
+    "name": "The Documentation",
+    "traditionalMatch": "The Hierophant",
+    "archetype": "balance",
+    "message": "Truth must be passed on. Your notes are a blessing to others.",
+    "reversedMessage": "Lost knowledge. You’re hoarding wisdom others need.",
+    "emoji": "📜"
+  },
+  {
+    "id": 6,
+    "name": "The Merge Conflict",
+    "traditionalMatch": "The Lovers",
+    "archetype": "chaos",
+    "message": "You may feel pulled in two directions. Realign your branches.",
+    "reversedMessage": "Avoiding hard decisions. Now your branches are breaking.",
+    "emoji": "🌀"
+  },
+  {
+    "id": 7,
+    "name": "The Product Launch",
+    "traditionalMatch": "The Chariot",
+    "archetype": "devops",
+    "message": "Charge ahead. The build passed, the release is live.",
+    "reversedMessage": "Sloppy release. What you rushed may roll back.",
+    "emoji": "🚀"
+  },
+  {
+    "id": 8,
+    "name": "The Debugger",
+    "traditionalMatch": "Strength",
+    "archetype": "backend",
+    "message": "Patience and courage reveal even the deepest issues.",
+    "reversedMessage": "You’re fighting symptoms, not roots. Breathe, then dig deeper.",
+    "emoji": "🪛"
+  },
+  {
+    "id": 9,
+    "name": "The Legacy Code",
+    "traditionalMatch": "The Hermit",
+    "archetype": "backend",
+    "message": "Isolation brings clarity. Read what others left behind.",
+    "reversedMessage": "You're avoiding unfamiliar patterns. Wisdom waits in the old ways.",
+    "emoji": "🔍"
+  },
+  {
+    "id": 10,
+    "name": "Stack Overflow",
+    "traditionalMatch": "Wheel of Fortune",
+    "archetype": "chaos",
+    "message": "Answers come and go. Ask the right question, and luck may shine.",
+    "reversedMessage": "You’re copying blindly. Trust your understanding—not just the top comment.",
+    "emoji": "🎡"
+  },
+  {
+    "id": 11,
+    "name": "The Linter",
+    "traditionalMatch": "Justice",
+    "archetype": "logic",
+    "message": "Your code reveals your values. Style reveals your soul.",
+    "reversedMessage": "Inconsistency breeds chaos. It’s time to clean up your act.",
+    "emoji": "⚖️"
+  },
+  {
+    "id": 12,
+    "name": "The Refactor",
+    "traditionalMatch": "The Hanged Man",
+    "archetype": "backend",
+    "message": "Let go of ego. Pause, restructure, and find elegance in stillness.",
+    "reversedMessage": "You're resisting change. The mess will only grow.",
+    "emoji": "🔄"
+  },
+  {
+    "id": 13,
+    "name": "The Rewrite",
+    "traditionalMatch": "Death",
+    "archetype": "backend",
+    "message": "A major end births a better beginning. Do not fear the rebuild.",
+    "reversedMessage": "You're clinging to broken systems. Let go and make room.",
+    "emoji": "☠️"
+  },
+  {
+    "id": 14,
+    "name": "The Test Suite",
+    "traditionalMatch": "Temperance",
+    "archetype": "balance",
+    "message": "Integration, harmony, preparation. Don’t rush what deserves care.",
+    "reversedMessage": "Skipping tests will cost you. Slow down to build strong.",
+    "emoji": "🧪"
+  },
+  {
+    "id": 15,
+    "name": "The Burnout",
+    "traditionalMatch": "The Devil",
+    "archetype": "emotional",
+    "message": "Obsession turns passion to poison. You must rest to grow.",
+    "reversedMessage": "You're ignoring the warning signs. Step away before you break.",
+    "emoji": "🪫"
+  },
+  {
+    "id": 16,
+    "name": "The Prod Crash",
+    "traditionalMatch": "The Tower",
+    "archetype": "chaos",
+    "message": "Everything broke. It’s not the fall that matters—it’s the fix.",
+    "reversedMessage": "You're in denial. Accept what failed and rebuild wisely.",
+    "emoji": "💥"
+  },
+  {
+    "id": 17,
+    "name": "The Feature Request",
+    "traditionalMatch": "The Star",
+    "archetype": "frontend",
+    "message": "Hope lives in feedback. The future glows with potential.",
+    "reversedMessage": "You’re chasing every suggestion. Clarity is being lost.",
+    "emoji": "🌟"
+  },
+  {
+    "id": 18,
+    "name": "The Impostor",
+    "traditionalMatch": "The Moon",
+    "archetype": "emotional",
+    "message": "The shadow speaks. You’re more than the doubts whispering in you.",
+    "reversedMessage": "You let doubt paralyze you. Reclaim your inner truth.",
+    "emoji": "🌘"
+  },
+  {
+    "id": 19,
+    "name": "The Light Theme",
+    "traditionalMatch": "The Sun",
+    "archetype": "frontend",
+    "message": "Joy, clarity, simplicity. Bask in the beauty of clean design.",
+    "reversedMessage": "You’re hiding behind complexity. Simplicity wants to shine through.",
+    "emoji": "🌞"
+  },
+  {
+    "id": 20,
+    "name": "The Code Review",
+    "traditionalMatch": "Judgement",
+    "archetype": "balance",
+    "message": "You’re being seen. Accept feedback with grace—and pass it on.",
+    "reversedMessage": "You fear being wrong. Vulnerability is strength, not flaw.",
+    "emoji": "🧾"
+  },
+  {
+    "id": 21,
+    "name": "The Deployment",
+    "traditionalMatch": "The World",
+    "archetype": "all",
+    "message": "The cycle completes. What you’ve built now lives. Celebrate and reflect.",
+    "reversedMessage": "You can’t move on because you’re clinging to unfinished work.",
+    "emoji": "🌍"
+  }
+]
