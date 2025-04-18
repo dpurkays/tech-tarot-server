@@ -66,7 +66,7 @@ Card data is stored in:
 ## Roadmap
 
 - [x] Setup folders
-- [ ] Setup backend infrastructure
+- [x] Setup backend server
 - [x] Create and format custom 22-card Tech Arcana JSON deck
 - [ ] Build draw 3 random cards along with reversed logic
 - [ ] Build /api/draw route with past, present and future cards
