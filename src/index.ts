@@ -1,5 +1,6 @@
 import 'dotenv/config';
 import express from "express";
+import { drawThreeCards } from './utils/drawThreeCards';
 
 
 const app = express();
@@ -13,3 +14,4 @@ app.listen(PORT, () => {
     console.log(`Server started and listening to PORT: ${PORT}`)
 });
 
+drawThreeCards();
