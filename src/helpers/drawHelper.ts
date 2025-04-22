@@ -3,7 +3,7 @@ import path from 'path';
 import { TarotCard } from "../types/TarotCard";
 
 export function loadTarotDeck(): TarotCard[] {
-    const filePath = path.join(__dirname, "..", "data", "tarot-arcana.json")
+    const filePath = path.join(__dirname, "..", "data", "major-arcana.json")
     const tarotData = fs.readFileSync(filePath, "utf-8");
     return JSON.parse(tarotData);
 }
